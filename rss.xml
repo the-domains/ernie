@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Shar Pei]]></title>
         <description><![CDATA[Shar Pei]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ernie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 18:59:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 19:43:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ernie/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3648c2c-f3d7-49b8-8adb-2cfaec0bcb6e.jpe">]]></description>
-            <link>undefinedf0fe79c7-230b-479a-99c4-8d7bc934de6b/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6edf3ef-b512-4b6a-b21d-a2348797877a.jpe">]]></description>
+            <link>https://thegrid.ai/ernie/f0fe79c7-230b-479a-99c4-8d7bc934de6b/index.html</link>
             <guid isPermaLink="false">f0fe79c7-230b-479a-99c4-8d7bc934de6b</guid>
-            <pubDate>Wed, 02 Mar 2016 18:58:34 GMT</pubDate>
+            <pubDate>Wed, 02 Mar 2016 19:43:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
