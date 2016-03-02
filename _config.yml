@@ -1,18 +1,18 @@
 analytics: {}
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.7592062991933385
-  lightness: 0.9257326074313829
-  rhythmicContrast: 0.9476830180262183
-  saturation: 0.5039917608254247
+    - '#000000'
+    - '#701020'
+    - '#C0B090'
+    - '#982830'
+    - '#000000'
+  brandStrength: 0.759206
+  lightness: 0.925732
+  rhythmicContrast: 0.947683
+  saturation: 0.503991
 cta: {}
-layout_spectrum: 0.5938045320805607
+layout_spectrum: 0.780405
 name: 'Ernie '
 opengraph: {}
 purpose: {}
-typography_spectrum: 0.27658035356158495
+typography_spectrum: 0.307432
