@@ -1,4 +1,20 @@
-analytics: {}
+name: 'Ernie '
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0
+title: Ernie
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#2c1f31'
@@ -8,12 +24,9 @@ color:
     - '#e9cd9c'
   brandStrength: 0.759206
   lightness: 0.925732
-  rhythmicContrast: 0.947683
   saturation: 0.503991
-cta: {}
-layout_spectrum: 0
-name: 'Ernie '
-opengraph: {}
+  rhythmicContrast: 0.947683
 purpose:
-  - {}
-typography_spectrum: 0.307432
+  - name: null
+    item: null
+    url: null
