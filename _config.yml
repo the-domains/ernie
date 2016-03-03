@@ -23,9 +23,9 @@ color:
     - '#8e6b4b'
     - '#e9cd9c'
   brandStrength: 0
-  lightness: 0.5
+  lightness: 0
   saturation: 0
-  rhythmicContrast: 0.947683
+  rhythmicContrast: 0
 purpose:
   - name: null
     item: null
