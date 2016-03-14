@@ -1,17 +1,17 @@
 analytics: {}
 color:
   brandColors:
-    - '#2c1f31'
-    - '#b2926c'
-    - '#604c45'
-    - '#8e6b4b'
-    - '#e9cd9c'
+    - '#E0D8D8'
+    - '#000000'
+    - '#888080'
+    - '#000000'
+    - '#000000'
   brandStrength: 0
   lightness: 0
   rhythmicContrast: 0
   saturation: 0
 cta: {}
-layout_spectrum: 0
+layout_spectrum: 0.286318
 name: 'Ernie '
 opengraph: {}
 purpose:
