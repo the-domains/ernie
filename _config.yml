@@ -1,7 +1,7 @@
 name: 'Ernie '
 favicon: null
-layout_spectrum: 0.26934
-typography_spectrum: 0
+layout_spectrum: 0
+typography_spectrum: 0.26836
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0D8D8'
-    - '#000000'
-    - '#888080'
-    - '#000000'
-    - '#000000'
+    - '#391c16'
+    - '#e3d828'
+    - '#dc4c0d'
+    - '#b3b0bd'
+    - '#b08920'
   brandStrength: 0
   lightness: 0
   saturation: 0
